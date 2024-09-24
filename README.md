@@ -1,26 +1,17 @@
 # django-todolist
 
-Simple todolist write in django for general use and pipeline automation..
+# Sistema de Gerenciamento de Tarefas
 
-  - Be kind with my baby
+Este é um projeto em Python que permite aos usuários se registrar, fazer login e criar tarefas.
 
-### Quick and free tip:
+## Funcionalidades
 
-> With great power comes great responsibility
+- Login de usuários
+- Criação de tarefas
+- Listagem de tarefas criadas por um usuário
 
+### Instalação
 
-### Tech
-
-Dillinger uses a number of open source projects to work properly:
-
-* [Django] - Django makes it easier to build better Web apps more quickly and with less code.
-* [Python-Venv] - The venv module provides support for creating lightweight “virtual environments” with their own site directories
-* [MySQL] - MySQL is an Oracle-backed open source relational database management system (RDBMS) based on Structured Query Language (SQL).
-
-
-### Installation
-
-Install the dependencies and start the server.
 
 ```sh
 $ cd django-todolist
@@ -31,7 +22,3 @@ $ python manage.py runserver
 ```
 
 
-License
-----
-
-GPL
