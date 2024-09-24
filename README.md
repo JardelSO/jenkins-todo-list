@@ -2,7 +2,7 @@
 
 # Sistema de Gerenciamento de Tarefas
 
-Este é um projeto em Python que permite aos usuários se registrar, fazer login e criar tarefas.
+ Este é um projeto em Python que permite aos usuários se registrar, fazer login e criar tarefas.
 
 ## Funcionalidades
 
